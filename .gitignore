@@ -1,0 +1,12 @@
+*.csv
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.pdf
+*.docx
+.DS_Store
+__pycache__/
+slides/
+notebooks/
